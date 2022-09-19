@@ -36,5 +36,25 @@ make sure to add the operaing region.
 
 <img width="1761" alt="image" src="https://user-images.githubusercontent.com/1314582/190951814-b5fcf057-a39a-4e12-8558-b51e5a3bf603.png">
 
+Participant key : 
 
+Signing public key and encryption key need to be added to veify the legitimate requesters.
+
+Generate a pair of private key , publick key using ED25519 
+```shell
+ssh-keygen -t ed25519
+```
+
+OR
+Use for testing use any of the online tool. 
+one working example as of now is: https://ed25519.herokuapp.com/
+
+other URLS: 
+https://registry.becknprotocol.io/crypto_keys/generate/ed25519:256
+https://registry.becknprotocol.io/crypto_keys/generate/x25519:256
+
+Once you have the keys, navigate to participant key tab on network participant information page. 
+and add the information
+ 
+Once added,  your entry on network is complete and you should be able to send request given that you have signed the requests. 
 
