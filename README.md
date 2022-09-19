@@ -58,3 +58,4 @@ and add the information
  
 Once added,  your entry on network is complete and you should be able to send request given that you have signed the requests. 
 
+<img width="1777" alt="image" src="https://user-images.githubusercontent.com/1314582/190952742-edc836d3-3398-4b69-b231-887aef20a98e.png">
