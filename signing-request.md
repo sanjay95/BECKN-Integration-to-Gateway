@@ -3,7 +3,7 @@ For more details: https://justinsecurity.medium.com/signing-http-messages-962510
 
 https://developer.apple.com/documentation/apple_news/apple_news_api_tutorial/signing_the_http_request
 
-Details about how signatuires will be communiocated and used:  
+Details about how signatures will be communicated and used:  
 https://developers.becknprotocol.io/docs/infrastructure-layer-specification/authentication/gateway-signing/
 https://developers.becknprotocol.io/docs/infrastructure-layer-specification/authentication/signature-verification/
 https://developers.becknprotocol.io/docs/infrastructure-layer-specification/authentication/subscriber-signing/
