@@ -46,7 +46,7 @@ ssh-keygen -t ed25519
 ```
 
 OR
-Use for testing use any of the online tool. 
+for testing, use any of the online tool. 
 one working example as of now is: https://ed25519.herokuapp.com/
 
 other URLS: 
