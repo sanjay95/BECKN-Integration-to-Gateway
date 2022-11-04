@@ -32,7 +32,7 @@ Make sure status is subscribed while filling the network role information to be 
 <img width="1755" alt="image" src="https://user-images.githubusercontent.com/1314582/190951412-fb58ecc4-28a1-42ac-877c-fb794635f1f9.png">
 
 
-make sure to add the operaing region.
+make sure to add the operating region.
 
 <img width="1761" alt="image" src="https://user-images.githubusercontent.com/1314582/190951814-b5fcf057-a39a-4e12-8558-b51e5a3bf603.png">
 
